@@ -140,3 +140,80 @@ Puede incluir funciones adicionales como:
 * Acuerdos de nivel de servicio (SLA).
 
 Normalmente tiene algún tipo de coste comercial.
+
+# Fe de erratas
+
+## 1. Licencia de ERPNext
+
+En el PDF aparece:
+
+> "Versión de código abierto bajo licencia LGPLv3"
+
+Este dato es **incorrecto**. ERPNext utiliza la licencia **GNU GPLv3**, no LGPLv3.
+
+### Corrección
+
+```text
+ERPNext
+- Licencia: GNU GPLv3
+- Servidor: Python
+- Base de datos: MariaDB
+- Código disponible públicamente
+```
+
+**Fuente:** [Frappe - License and Trademark](https://docs.frappe.io/legal/others/license-and-trademark)
+
+---
+
+## 2. Versión de ERPNext
+
+El PDF indica:
+
+> "Versión actual: 15"
+
+Este dato puede considerarse **desactualizado**, ya que las versiones del software cambian con el tiempo. Además, indicar "versión actual" sin especificar una fecha puede hacer que el documento quede obsoleto.
+
+### Corrección
+
+En lugar de indicar una versión como si fuera permanente, sería mejor escribir:
+
+```text
+- Versión: consultar la versión estable actual en la documentación oficial de ERPNext.
+```
+
+De esta manera, el documento no queda desactualizado cuando aparece una nueva versión.
+
+**Fuente:** [ERPNext - Documentación oficial](https://docs.frappe.io/erpnext)
+
+---
+
+## 3. Licencia de Odoo Enterprise
+
+El PDF indica:
+
+> "Versión comunitaria (LGPLv3)"
+> "Versión empresarial comercial"
+
+La información es demasiado general. Odoo Community utiliza **LGPLv3**, pero Odoo Enterprise utiliza una licencia diferente denominada **Odoo Enterprise Edition License v1.0**.
+
+### Corrección
+
+```text
+Odoo
+- Community: código abierto bajo licencia LGPLv3.
+- Enterprise: utiliza la Odoo Enterprise Edition License v1.0
+  y requiere una suscripción válida.
+```
+
+La edición Enterprise también puede incluir funciones, soporte, actualizaciones y servicios adicionales dependiendo del plan contratado.
+
+**Fuente:** [Odoo - Licencias](https://www.odoo.com/documentation/17.0/legal/licenses.html)
+
+## Conclusión
+
+Los principales errores o datos desactualizados encontrados son:
+
+1. **ERPNext no utiliza LGPLv3**, sino **GNU GPLv3**.
+2. La afirmación **"Versión actual: 15"** de ERPNext puede quedar desactualizada y debería indicarse con una fecha o sustituirse por una referencia a la versión actual.
+3. **Odoo Enterprise no utiliza simplemente una "licencia comercial" genérica**; utiliza la **Odoo Enterprise Edition License v1.0**.
+
