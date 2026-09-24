@@ -4,7 +4,7 @@ PedroEduardoDeLaPuenteRodriguez
 
 # Empresa
 
-10 — Organización de eventos "Momentos Corporate"
+10-Organización de eventos "Momentos Corporate"
 
 # Palabra del dia
 
