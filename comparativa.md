@@ -1,3 +1,15 @@
+# Usuario git
+
+PedroEduardoDeLaPuenteRodriguez
+
+# Empresa
+
+10 — Organización de eventos "Momentos Corporate"
+
+# Palabra del dia
+
+Compañero
+
 # Software libre, código abierto y software propietario
 
 No todo el software funciona de la misma manera. Una diferencia importante es **qué podemos hacer con el programa** y **qué derechos nos da su licencia**.
