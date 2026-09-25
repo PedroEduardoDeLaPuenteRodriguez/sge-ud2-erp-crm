@@ -468,6 +468,6 @@ Durante la prueba se deberían comprobar casos como:
 9. Registrar el pago.
 10. Obtener informes sobre el proyecto.
 
-De esta forma se puede comprobar si las funcionalidades teóricas de cada solución se adaptan realmente al funcionamiento de **Momentos Corporate**.
+De esta forma se puede comprobar si las funcionalidades teóricas de cada solución se adaptan realmente al funcionamiento de Momentos Corporate.
 
-La decisión final debería basarse en los resultados de esta prueba, el coste total de propiedad y los riesgos identificados, y no únicamente en el precio de la licencia.
+La decisión final debería basarse en los resultados de esta prueba, el coste total de propiedad y los riesgos identificados, y no únicamente en el precio de la licencia
